@@ -1,0 +1,7 @@
+build/
+dist/
+runtime_state.json
+starter.json
+__pycache__/
+*.pyc
+*.pyo
