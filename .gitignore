@@ -5,3 +5,4 @@ starter.json
 __pycache__/
 *.pyc
 *.pyo
+.claude/
